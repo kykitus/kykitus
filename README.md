@@ -2,4 +2,4 @@ I'm wannabe programmer, that wants to program programs for people, who wants to 
 --
 learning basics of C++ since 07.2022,
 
-Currently learning Godot
+Currently learning SDL and basic physics
