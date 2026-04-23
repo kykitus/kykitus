@@ -1,5 +1,5 @@
-I'm wannabe programmer, that wants to program programs for people, who wants to see funny random words do funny things on screen
+I touch the keyboard, and the keyboard makes *click* 
 --
-learning basics of C++ since 07.2022,
+### All of it since 07.2022,
 
-Currently learning SDL and basic physics
+Currently doing fangame in Godot
